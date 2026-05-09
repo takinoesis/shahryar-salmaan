@@ -56,7 +56,7 @@ print(monty_python.gif)
   </a>
 </p>
 
-<!-- Top Languages -->
+<!-- Top Languages 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahryar-salmaan&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="takinshmirtz's top languages" />
 </p>
